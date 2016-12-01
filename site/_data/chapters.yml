@@ -1,3 +1,68 @@
-title|description
-test | testr
-test
+- title: Introduction à Angular 2 et installation des outils
+  description : C'est quoi angular 2? Qui y a t'il de nouveau dans le framework? Dans ce chapitre on procedera a une introduction globale à Angular 2! Aucune experience avec angularJS 1.x n'est requise même si quelques fois des petites comparaisons seront faites entre les deux versions du framework.
+  done: false
+
+- title: Ma première application angular 2
+  description: Après avoir installé les outils, on developpera notre toute premiere application angular qui ne fera rien d'autre qu'afficher le contenu d'une variable dans nos vues.
+  done: false
+
+- title: Typescript, prendre le langage en main
+  description: Typescript est le langage recommandé quand on veut developper des applications angular 2. Ce chapitre introduit Typescript de facon tres simple et brève vu que Typescript est tres proche du javascript traditionnel.
+  done: false
+
+- title: Comment Angular 2 marche ?
+  description: Après les premiers pas dans le langage, on va entrer plus profondement dans le langage en comprenant les concepts de base et comment toutes les composantes fusionnent ensemble
+  done: false
+
+- title: Les directives incluses dans le framework
+  description: Angular 2 est livré dans son core avec des directives prédefinies. Dans ce chapitre chacune de ces directive introduite avec des exemples d'utilisation
+  done: false
+
+- title: Les Formulaires avec Angular 2
+  description: Les formulaires representent le point de contact entre les utilisateurs et vos applications. Dans ce chapitres on apprendra comment creer, valider et gerer des formulaires avec angular 2
+  done: false
+
+- title: HTTP, Parlez avec vos APi
+  description: Aujourd'hui on ne parle plus que WebService, dans ce chapitre on introduira un des modules fondamentaux de angular 2 qui est le composant HTTP. on fera des CRUD operations sur des APIs
+  done: false
+
+- title: Le Routing avec Angular 2
+  description: Dans ce chapitre on apprendra comment naviguer dans l'application et comment transporter les informations d'une vue a une autre
+  done: false
+
+- title: L'Injection de dependances
+  description: L'injection des dependances fait partie des notions les plus importantes dans les frameworks actuels sur le marché et angular 2 n'y echappe pas. Angular 2 a dans son coeur une veritable machine qui gere les dependances entre les differentes composantes de notre application.
+  done: false
+
+- title: L'architecture des données dans une application angular 2
+  description: Gerer les données dans une application peut s'averer tres complexe des que celle-ci grandit. Dans ce chapitre on apprendra a manager les données de notre applications obtenues de differentes sources (RestCall, LocalStorage, ...)
+  done: false
+
+- title: Les observables
+  description: Qui parle de données parlent de changement! Comment s'y prendre avec les données qui changent ? Ce chapitre est la reponse à cette problematique.
+  done: false
+
+- title: Introduction à Redux
+  description: Les UIs deviennent de plus en plus complexes et dans les SPA (Single Page App) on a besoin de gerer l'etat de la route active, d'un tab qu'on a selectionné, on a besoin d'afficher un SPinner quand les données chargent ou quand un calcul est en cours.
+  done: false
+
+- title: Quelques composants avancées
+  description: Ici on introduira quelques notions avancées de Angular 2
+  done: false
+
+- title: Tester une application Angular 2
+  description: Dans ce chapitre on apprendra comment tester facilement des application Angular 2.
+  done: false
+
+- title: Angular 2 en production
+  description: Après avoir developpé en local sur son Mac ou PC on se demande toujours comment mettre l'application en production sur un serveur.Dans ce chapitre on donnera quelques astuces pour reussir de la plus simple facon possible à deployer votre application
+  done: false
+
+- title: Angular 2 dans AngularJs 1
+  description: Vous avez une tres grosse application angularjs 1.x et souhaitez quand meme introduire angular 2 dans celle-ci ? Ce chapitre nous apprendra comment ca se fait
+  done: false
+
+- title: Conclusion
+  description:
+  done: false
+
